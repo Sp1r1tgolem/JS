@@ -1,3 +1,2 @@
 I made an empty folder for later to learn JS and/or Observable. 
 Delete this message when projects are added.
-Tobias
